@@ -1,0 +1,3 @@
+[submodule "wavpack"]
+	path = wavpack
+	url = https://github.com/stephenlaughton/WavPack.git
